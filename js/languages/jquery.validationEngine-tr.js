@@ -28,7 +28,7 @@
                 },
 				"groupRequired": {
                     "regex": "none",
-                    "alertText": "* You must fill one of the following fields"
+                    "alertText": "* İlgili alanlardan en az birini doldurmalısınız"
                 },
                 "min": {
                     "regex": "none",
